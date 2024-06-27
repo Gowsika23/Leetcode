@@ -1,0 +1,30 @@
+class Solution {
+    private List<Integer> inorderList; // To store the inorder traversal of the nodes
+    
+    public TreeNode balanceBST(TreeNode root) {
+        inorderList = new ArrayList<>();
+        inorderTraversal(root);
+        return buildBalancedBST(0, inorderList.size() - 1);
+    }
+    
+    private void inorderTraversal(TreeNode node) {
+        if (node == null)
+            return;
+        inorderTraversal(node.left);
+        inorderList.add(node.val);
+        inorderTraversal(node.right);
+    }
+    
+    private TreeNode buildBalancedBST(int low, int high) {
+        if (low > high)
+            return null;
+        
+        int mid = low + (high - low) / 2;
+        TreeNode newNode = new TreeNode(inorderList.get(mid));
+        
+        newNode.left = buildBalancedBST(low, mid - 1);
+        newNode.right = buildBalancedBST(mid + 1, high);
+        
+        return newNode;
+    }
+}
