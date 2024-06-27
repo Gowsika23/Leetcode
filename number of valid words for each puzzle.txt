@@ -1,0 +1,41 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> findNumOfValidWords(String[] words, String[] puzzles) {
+        Map<Integer, Integer> wordFrequency = new HashMap<>();
+        List<Integer> result = new ArrayList<>();
+
+        for (String word : words) {
+            int mask = 0;
+            for (char ch : word.toCharArray()) {
+                int bit = ch - 'a';
+                mask = mask | (1 << bit);
+            }
+            wordFrequency.put(mask, wordFrequency.getOrDefault(mask, 0) + 1);
+        }
+
+        for (String puzzle : puzzles) {
+            int puzzleMask = 0;
+            for (char ch : puzzle.toCharArray()) {
+                int bit = ch - 'a';
+                puzzleMask = puzzleMask | (1 << bit);
+            }
+
+            int firstBit = puzzle.charAt(0) - 'a';
+            int count = 0;
+            int subset = puzzleMask;
+            while (true) {
+                if (((subset >> firstBit) & 1) == 1 && wordFrequency.containsKey(subset)) {
+                    count += wordFrequency.get(subset);
+                }
+                subset = (subset - 1) & puzzleMask;
+                if (subset == puzzleMask) {
+                    break;
+                }
+            }
+            result.add(count);
+        }
+
+        return result;
+    }
+}
