@@ -1,0 +1,26 @@
+public int[] singleNumber(int[] nums) {
+    // XOR of all elements will give us XOR of two single numbers
+    int xorOfTwoNumbers = 0;
+    for (int num : nums) {
+        xorOfTwoNumbers ^= num;
+    }
+    
+    // Get the rightmost set bit position
+    int rightmostSetBit = xorOfTwoNumbers & -xorOfTwoNumbers;
+    
+    // Initialize the result
+    int[] result = new int[2];
+    result[0] = 0;
+    result[1] = 0;
+    
+    // XOR all numbers with this set bit at position 0 and not at position 0
+    for (int num : nums) {
+        if ((num & rightmostSetBit) == 0) {
+            result[0] ^= num;
+        } else {
+            result[1] ^= num;
+        }
+    }
+    
+    return result;
+}
