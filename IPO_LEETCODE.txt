@@ -1,0 +1,36 @@
+import java.util.PriorityQueue;
+
+class Solution {
+    public int findMaximizedCapital(int k, int w, int[] profits, int[] capital) {
+        int n = profits.length;
+        
+        // Min-heap to store projects based on the capital required in ascending order
+        PriorityQueue<int[]> minCapitalHeap = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        // Max-heap to store projects based on profits in descending order
+        PriorityQueue<int[]> maxProfitHeap = new PriorityQueue<>((a, b) -> b[1] - a[1]);
+        
+        // Add all projects to the min-capital heap
+        for (int i = 0; i < n; i++) {
+            minCapitalHeap.add(new int[]{capital[i], profits[i]});
+        }
+        
+        // Try to complete up to 'k' projects
+        for (int i = 0; i < k; i++) {
+            // Move all projects that can be started with the current capital to the max-profit heap
+            while (!minCapitalHeap.isEmpty() && minCapitalHeap.peek()[0] <= w) {
+                maxProfitHeap.add(minCapitalHeap.poll());
+            }
+            
+            // If no projects can be started, break the loop
+            if (maxProfitHeap.isEmpty()) {
+                break;
+            }
+            
+            // Select the project with the maximum profit
+            w += maxProfitHeap.poll()[1];
+        }
+        
+        return w;
+    }
+}
+
