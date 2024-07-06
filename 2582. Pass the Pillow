@@ -1,5 +1,4 @@
 class Solution {
-
     public int passThePillow(int n, int time) {
         int currentPillowPosition = 1;
         int currentTime = 0;
