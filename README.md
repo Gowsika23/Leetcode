@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Gowsika23/Leetcode/tree/master/0061-rotate-list) |
+## Array
+|  |
+| ------- |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 <!---LeetCode Topics End-->
