@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Database
 |  |
@@ -26,4 +27,9 @@
 |  |
 | ------- |
 | [0851-goat-latin](https://github.com/Gowsika23/Leetcode/tree/master/0851-goat-latin) |
+| [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
