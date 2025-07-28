@@ -22,4 +22,8 @@
 | ------- |
 | [0626-exchange-seats](https://github.com/Gowsika23/Leetcode/tree/master/0626-exchange-seats) |
 | [2057-count-salary-categories](https://github.com/Gowsika23/Leetcode/tree/master/2057-count-salary-categories) |
+## String
+|  |
+| ------- |
+| [0851-goat-latin](https://github.com/Gowsika23/Leetcode/tree/master/0851-goat-latin) |
 <!---LeetCode Topics End-->
