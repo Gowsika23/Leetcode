@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gowsika23/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Gowsika23/Leetcode/tree/master/0061-rotate-list) |
 ## Array
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gowsika23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Gowsika23/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0851-goat-latin](https://github.com/Gowsika23/Leetcode/tree/master/0851-goat-latin) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -52,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gowsika23/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Gowsika23/Leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
