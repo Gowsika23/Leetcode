@@ -4,11 +4,13 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gowsika23/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Gowsika23/Leetcode/tree/master/0009-palindrome-number) |
 | [2383-add-two-integers](https://github.com/Gowsika23/Leetcode/tree/master/2383-add-two-integers) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gowsika23/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Gowsika23/Leetcode/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gowsika23/Leetcode/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gowsika23/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
