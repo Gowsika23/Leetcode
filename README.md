@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gowsika23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0851-goat-latin](https://github.com/Gowsika23/Leetcode/tree/master/0851-goat-latin) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -56,8 +57,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gowsika23/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gowsika23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gowsika23/Leetcode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gowsika23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
