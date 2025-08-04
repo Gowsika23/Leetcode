@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Gowsika23/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Gowsika23/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gowsika23/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
 | [2383-add-two-integers](https://github.com/Gowsika23/Leetcode/tree/master/2383-add-two-integers) |
 ## Linked List
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gowsika23/Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Gowsika23/Leetcode/tree/master/0118-pascals-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gowsika23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
