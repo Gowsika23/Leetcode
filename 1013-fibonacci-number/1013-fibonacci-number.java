@@ -4,13 +4,13 @@ class Solution {
         int[] dp = new int[n+1];
         dp[0] =0;
         dp[1] = 1;int f=dp[0], s=dp[1];
-        int sum=f+s;
+        int temp=0;
         for(int i=2;i<=n;i++){
-            int temp = f+s;
+            temp = f+s;
             f=s;
             s=temp;
-            sum = temp;
+           // sum = temp;
         }
-        return sum;        
+        return temp;        
     }
 }
