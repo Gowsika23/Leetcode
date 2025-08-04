@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/Gowsika23/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Gowsika23/Leetcode/tree/master/0118-pascals-triangle) |
+| [0940-fruit-into-baskets](https://github.com/Gowsika23/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gowsika23/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gowsika23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Gowsika23/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gowsika23/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Gowsika23/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
