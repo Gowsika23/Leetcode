@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Gowsika23/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gowsika23/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/Gowsika23/Leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Gowsika23/Leetcode/tree/master/2383-add-two-integers) |
 ## Linked List
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gowsika23/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Gowsika23/Leetcode/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/Gowsika23/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gowsika23/Leetcode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/Gowsika23/Leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,4 +97,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gowsika23/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
