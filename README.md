@@ -28,6 +28,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -77,4 +78,20 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
