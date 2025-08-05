@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/Gowsika23/Leetcode/tree/master/0626-exchange-seats) |
+| [1480-movie-rating](https://github.com/Gowsika23/Leetcode/tree/master/1480-movie-rating) |
 | [2057-count-salary-categories](https://github.com/Gowsika23/Leetcode/tree/master/2057-count-salary-categories) |
 ## String
 |  |
