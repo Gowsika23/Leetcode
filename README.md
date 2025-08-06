@@ -23,6 +23,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gowsika23/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Gowsika23/Leetcode/tree/master/0061-rotate-list) |
+| [0541-reverse-string-ii](https://github.com/Gowsika23/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0006-zigzag-conversion](https://github.com/Gowsika23/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Gowsika23/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gowsika23/Leetcode/tree/master/0013-roman-to-integer) |
+| [0541-reverse-string-ii](https://github.com/Gowsika23/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0851-goat-latin](https://github.com/Gowsika23/Leetcode/tree/master/0851-goat-latin) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
