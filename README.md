@@ -14,6 +14,7 @@
 | [1013-fibonacci-number](https://github.com/Gowsika23/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gowsika23/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gowsika23/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Gowsika23/Leetcode/tree/master/2383-add-two-integers) |
 ## Linked List
 |  |
@@ -40,6 +41,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gowsika23/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Gowsika23/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Gowsika23/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Gowsika23/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -93,6 +95,7 @@
 | [0012-integer-to-roman](https://github.com/Gowsika23/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gowsika23/Leetcode/tree/master/0013-roman-to-integer) |
 | [0940-fruit-into-baskets](https://github.com/Gowsika23/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
