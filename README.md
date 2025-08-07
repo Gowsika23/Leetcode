@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Gowsika23/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gowsika23/Leetcode/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gowsika23/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Gowsika23/Leetcode/tree/master/2383-add-two-integers) |
 ## Linked List
 |  |
