@@ -36,6 +36,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/Gowsika23/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
+| [1791-richest-customer-wealth](https://github.com/Gowsika23/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
