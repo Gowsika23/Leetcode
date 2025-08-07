@@ -36,6 +36,7 @@
 | [0940-fruit-into-baskets](https://github.com/Gowsika23/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/Gowsika23/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Gowsika23/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Gowsika23/Leetcode/tree/master/2058-concatenation-of-array) |
