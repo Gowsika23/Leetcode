@@ -69,6 +69,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Gowsika23/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1797-goal-parser-interpretation](https://github.com/Gowsika23/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/Gowsika23/Leetcode/tree/master/2235-capitalize-the-title) |
 ## String Matching
