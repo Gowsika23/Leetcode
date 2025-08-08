@@ -64,6 +64,7 @@
 | [0013-roman-to-integer](https://github.com/Gowsika23/Leetcode/tree/master/0013-roman-to-integer) |
 | [0541-reverse-string-ii](https://github.com/Gowsika23/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0851-goat-latin](https://github.com/Gowsika23/Leetcode/tree/master/0851-goat-latin) |
+| [1205-defanging-an-ip-address](https://github.com/Gowsika23/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
