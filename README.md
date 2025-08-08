@@ -44,6 +44,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Gowsika23/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/Gowsika23/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Gowsika23/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Gowsika23/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2048-build-array-from-permutation](https://github.com/Gowsika23/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Gowsika23/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
