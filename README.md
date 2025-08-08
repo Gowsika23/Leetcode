@@ -71,6 +71,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1797-goal-parser-interpretation](https://github.com/Gowsika23/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2235-capitalize-the-title](https://github.com/Gowsika23/Leetcode/tree/master/2235-capitalize-the-title) |
 ## String Matching
 |  |
@@ -102,6 +103,7 @@
 | [0940-fruit-into-baskets](https://github.com/Gowsika23/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gowsika23/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Sorting
 |  |
 | ------- |
