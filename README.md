@@ -73,6 +73,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Gowsika23/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gowsika23/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Gowsika23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Gowsika23/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -158,6 +159,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Gowsika23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Counting
 |  |
