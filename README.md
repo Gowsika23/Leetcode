@@ -11,6 +11,7 @@
 | [0013-roman-to-integer](https://github.com/Gowsika23/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Gowsika23/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Gowsika23/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Gowsika23/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gowsika23/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gowsika23/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gowsika23/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Gowsika23/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Gowsika23/Leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -149,6 +151,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Gowsika23/Leetcode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gowsika23/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
