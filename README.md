@@ -61,6 +61,7 @@
 | [1278-product-price-at-a-given-date](https://github.com/Gowsika23/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1452-restaurant-growth](https://github.com/Gowsika23/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Gowsika23/Leetcode/tree/master/1480-movie-rating) |
+| [1801-average-time-of-process-per-machine](https://github.com/Gowsika23/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2057-count-salary-categories](https://github.com/Gowsika23/Leetcode/tree/master/2057-count-salary-categories) |
 ## String
 |  |
