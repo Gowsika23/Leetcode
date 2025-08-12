@@ -50,6 +50,7 @@
 | [2058-concatenation-of-array](https://github.com/Gowsika23/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
@@ -159,11 +160,13 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Gowsika23/Leetcode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gowsika23/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gowsika23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Counting
 |  |
 | ------- |
