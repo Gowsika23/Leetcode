@@ -53,6 +53,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
@@ -84,6 +85,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2235-capitalize-the-title](https://github.com/Gowsika23/Leetcode/tree/master/2235-capitalize-the-title) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## String Matching
 |  |
 | ------- |
