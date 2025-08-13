@@ -182,4 +182,12 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gowsika23/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Gowsika23/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Gowsika23/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
