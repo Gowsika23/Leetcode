@@ -87,6 +87,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gowsika23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Gowsika23/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1873-longest-nice-substring](https://github.com/Gowsika23/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2235-capitalize-the-title](https://github.com/Gowsika23/Leetcode/tree/master/2235-capitalize-the-title) |
@@ -124,6 +125,7 @@
 | [0940-fruit-into-baskets](https://github.com/Gowsika23/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gowsika23/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1873-longest-nice-substring](https://github.com/Gowsika23/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Recursion
 |  |
@@ -141,6 +143,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Gowsika23/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Gowsika23/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Gowsika23/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1873-longest-nice-substring](https://github.com/Gowsika23/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 | [0231-power-of-two](https://github.com/Gowsika23/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gowsika23/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gowsika23/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1873-longest-nice-substring](https://github.com/Gowsika23/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -213,4 +217,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gowsika23/Leetcode/tree/master/0053-maximum-subarray) |
+| [1873-longest-nice-substring](https://github.com/Gowsika23/Leetcode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
