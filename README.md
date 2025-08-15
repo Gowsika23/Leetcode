@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gowsika23/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Gowsika23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gowsika23/Leetcode/tree/master/0118-pascals-triangle) |
 | [0495-teemo-attacking](https://github.com/Gowsika23/Leetcode/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/Gowsika23/Leetcode/tree/master/0518-coin-change-ii) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gowsika23/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Gowsika23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Gowsika23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Gowsika23/Leetcode/tree/master/0118-pascals-triangle) |
 | [0518-coin-change-ii](https://github.com/Gowsika23/Leetcode/tree/master/0518-coin-change-ii) |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gowsika23/Leetcode/tree/master/0155-min-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Gowsika23/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
