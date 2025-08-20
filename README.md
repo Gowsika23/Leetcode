@@ -93,6 +93,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2235-capitalize-the-title](https://github.com/Gowsika23/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Gowsika23/Leetcode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 ## String Matching
 |  |
 | ------- |
