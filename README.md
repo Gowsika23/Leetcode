@@ -59,6 +59,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gowsika23/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
@@ -152,6 +153,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
 | [1791-richest-customer-wealth](https://github.com/Gowsika23/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gowsika23/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
 |  |
 | ------- |
