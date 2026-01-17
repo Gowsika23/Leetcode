@@ -20,6 +20,7 @@
 | [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Gowsika23/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/Gowsika23/Leetcode/tree/master/2383-add-two-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Gowsika23/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Gowsika23/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gowsika23/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
@@ -224,4 +226,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gowsika23/Leetcode/tree/master/0053-maximum-subarray) |
 | [1873-longest-nice-substring](https://github.com/Gowsika23/Leetcode/tree/master/1873-longest-nice-substring) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Gowsika23/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
