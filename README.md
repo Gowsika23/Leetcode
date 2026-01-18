@@ -54,6 +54,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Gowsika23/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Gowsika23/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1895-largest-magic-square](https://github.com/Gowsika23/Leetcode/tree/master/1895-largest-magic-square) |
 | [2048-build-array-from-permutation](https://github.com/Gowsika23/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Gowsika23/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Gowsika23/Leetcode/tree/master/0048-rotate-image) |
 | [1791-richest-customer-wealth](https://github.com/Gowsika23/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1895-largest-magic-square](https://github.com/Gowsika23/Leetcode/tree/master/1895-largest-magic-square) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gowsika23/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
 |  |
@@ -196,6 +198,7 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gowsika23/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Gowsika23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1895-largest-magic-square](https://github.com/Gowsika23/Leetcode/tree/master/1895-largest-magic-square) |
 | [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Counting
 |  |
