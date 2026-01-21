@@ -62,6 +62,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Gowsika23/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Gowsika23/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gowsika23/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
@@ -193,6 +194,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gowsika23/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1873-longest-nice-substring](https://github.com/Gowsika23/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2529-range-product-queries-of-powers](https://github.com/Gowsika23/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
