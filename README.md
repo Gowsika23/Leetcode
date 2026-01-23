@@ -27,6 +27,7 @@
 | [0002-add-two-numbers](https://github.com/Gowsika23/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Gowsika23/Leetcode/tree/master/0061-rotate-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gowsika23/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gowsika23/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gowsika23/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
@@ -138,6 +140,7 @@
 | [1873-longest-nice-substring](https://github.com/Gowsika23/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Gowsika23/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gowsika23/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -180,11 +183,13 @@
 | [2058-concatenation-of-array](https://github.com/Gowsika23/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowsika23/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gowsika23/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gowsika23/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gowsika23/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
 |  |
@@ -244,8 +249,10 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gowsika23/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gowsika23/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Gowsika23/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
